@@ -19,6 +19,10 @@ http://www.arphic.com.tw/tw/service/support/support_mac.htm
 
 https://ctan.org/tex-archive/fonts/arphic-ttf?lang=en
 
+https://www.maoken.com/freefonts/7246.html
+
+https://www.maoken.com/freefonts/7256.html
+
 # 開源字體授權規定 Open Source Font Licensing Regulations
 
 https://www.arphic.com.tw/2022/01/21/plfont/
